@@ -1,4 +1,4 @@
 package com.setap.finaldest;
 
-public class test {
+public class testfile {
 }
