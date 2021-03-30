@@ -10,6 +10,12 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        //i love cum
+        //spermie
+
+        //hello this is a new line i have added
+
+        //hi kane
     }
 }
 
